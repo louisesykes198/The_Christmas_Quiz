@@ -23,7 +23,7 @@ you can Learn interesting facts, challenge yourself, and share the joy of Christ
 
 #### First Time Visitor Goals
 
-Explore the Game:
+To explore the Game.
 
 1. Understand the concept and rules of the Christmas Quiz Game.
 
