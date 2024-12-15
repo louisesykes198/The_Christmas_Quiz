@@ -13,7 +13,7 @@ Perfect for playing on your own or playing with friends, this game is a nice way
 ### User stories
 
 User Story for a Christmas Quiz Game
-Title: Festive Fun: A Christmas Quiz Adventure
+A Christmas Quiz: 
 
 This quiz is for users who love Christmas and enjoy trivia games.
 
