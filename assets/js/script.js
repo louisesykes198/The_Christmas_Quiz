@@ -51,7 +51,10 @@ const questions = [
         correctAnswer: 'maids a-milking',
     }
 ];
+
+//function to display questions
+const questionElement = document.getElementById("question");
+const possibleAnswers = document.getElementById("possibleAnswers");
+const correctAnswer = document.getElementById("correctAnswer");
 let latestQuestion = 0;
 let score = 0;
-//function to display questions
-
