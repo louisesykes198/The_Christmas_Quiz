@@ -1,3 +1,37 @@
 body{
     background-color: aqua;
 }
+h1{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+p{
+    text-align: center;
+    font-size: 3rem;
+}
+.button-container{
+    display: flexbox;
+    justify-content:space-evenly;
+    flex-flow: wrap;
+    gap:10px
+}
+button {
+    display: block;
+    width: 75%;
+    padding: 16px 8px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+    margin: 10px auto;
+    background-color: rgb(23, 218, 71);
+    border: 2px solid var(--white);
+    color: rgb(30, 30, 31);
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+  @media (max-width: 600px) {
+    .button-container {
+      flex-direction: row; /* Buttons side by side */
+    }
+  }
