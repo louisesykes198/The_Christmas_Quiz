@@ -52,9 +52,21 @@ const questions = [
     }
 ];
 
-//function to display questions
+// variables for functions
 const questionElement = document.getElementById("question");
 const possibleAnswers = document.getElementById("possibleAnswers");
 const correctAnswer = document.getElementById("correctAnswer");
 let latestQuestion = 0;
 let score = 0;
+// function to start quiz
+function startQuiz(){
+    let latestQuestion = 0;
+    let score = 0;
+    showQuestion();
+}
+// function to show questions
+function showQuestion(){
+    latestQuestion = questions[latestQuestion];
+    let question =latestQuestion + 1;
+    questionElement.innerHTML = question + ". " + latestQuestion.question;
+}
