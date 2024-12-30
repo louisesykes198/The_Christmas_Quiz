@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(202, 13, 13, 0.685);
+    background-color: rgba(202, 26, 13, 0.685);
 }
 h1{
     text-align: center;
@@ -10,7 +10,7 @@ p{
     text-align: center;
     font-size: 3rem;
 }
-.button-container{
+.answer-btn{
     display: flexbox;
     justify-content:space-evenly;
     flex-flow: wrap;
