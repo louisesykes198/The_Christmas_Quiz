@@ -105,15 +105,15 @@ The wireframes allow me to map out the layout of each page, focusing on how visi
 
 Desktop Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/c9ec330abf5a472ba4b1836009c9b01c/mode/design)
 
-![image](/workspace/The_Christmas_Quiz/images/deask-top-view.png)
+![image](images/desk-top-view.png)
 
 Mobile Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/De59d1a70e49d2a039f450db264f64023/mode/design)
 
-![image](/workspace/The_Christmas_Quiz/images/mobile-view.png)
+![image](images/ipad-view.png)
 
 Tablet and Ipad Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/Db889ae22799549a29dbf8a6036ac84fb/mode/design)
 
-![/workspace/The_Christmas_Quiz/images/ipad-view.png)
+![image](images/ipad-view.png)
 
 ## Features
 
