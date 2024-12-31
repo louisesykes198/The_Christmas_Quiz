@@ -77,10 +77,7 @@ All icons were sourced through [Font Awesome](https://fontawesome.com/)
 All fonts were sourced through [Google Fonts](https://fonts.google.com/)
 
 The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
-The headlines' bold, Fredoka font draws attention without being unduly harsh, nicely balancing my hero image's simplicity and clarity. 
-The call-to-action and other important places, like my main message, are highlighted by the font's weight.
-
-![image](assets/images/fonts.png)
+The headlines' bold, Playfair Display font draws attention without being unduly harsh, and nicely balanced. 
 
 #### Layout
 
