@@ -68,12 +68,11 @@ The use of red, green, and gold suggests a Christmas or winter motif, making the
 
 ![image](images/color-scheme.png)
 #### Typography
-The Fredoka font is the primary font used throughout the entire website. 
-Sans Serif serves as the backup font in the event that the Fredoka font cannot be properly imported into the website. 
+The typography enhances the festive design by being clear, bold, and modern. The quiz questions are written in an effective and easy-to-read font, such as Playfair Display or sans-serif, which makes them stand out on the page. The button language is straightforward and clear, so it's readable and complements the modern design.  The text colours are largely black and white to contrast with the red background, with some tweaks to match the green and gold button styles.
 
-All icons were sourced though [Font Awesome](https://fontawesome.com/)
+All icons were sourced through [Font Awesome](https://fontawesome.com/)
 
-![image](assets/images/icons.png)
+![image](images/Typography-image.png)
 
 All fonts were sourced through [Google Fonts](https://fonts.google.com/)
 
