@@ -101,7 +101,7 @@ The bright red background shows warmth and festivity, making it the ideal canvas
 Green buttons with a gold hover effect offer contrast while also creating a sense of interactivity, directing the user's attention to the quiz answers.
 Overall, the picture uses movement (snowflakes), vivid colours, and modest decorative elements to create a welcoming and joyous mood.
 
-![image](![image](images/Typography-image.png)
+![image](images/Typography-image.png)
 ### Wireframes
 
 The wireframes I’ve created for my website serve as a visual reference for planning and organizing the overall layout of the site. 
