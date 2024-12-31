@@ -53,7 +53,7 @@ To explore the Game.
 
 ### Design
 
-The website, My Crochet Page, presents a clean and minimalist design. Here’s a quick review of the look:
+The design features a red background with a festive touch of falling snowflakes. The buttons are green colour, with a gold hover effect, providing an elegant contrast against the red background and adding a holiday feel to the quiz page.
 
 #### Logo
 The logo was desgined and downloaded from [Design.com](https://www.design.com/)
