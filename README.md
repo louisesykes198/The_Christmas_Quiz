@@ -69,15 +69,11 @@ The use of red, green, and gold suggests a Christmas or winter motif, making the
 ![image](images/color-scheme.png)
 #### Typography
 The typography enhances the festive design by being clear, bold, and modern. The quiz questions are written in an effective and easy-to-read font, such as Playfair Display or sans-serif, which makes them stand out on the page. The button language is straightforward and clear, so it's readable and complements the modern design.  The text colours are largely black and white to contrast with the red background, with some tweaks to match the green and gold button styles.
-
-All icons were sourced through [Font Awesome](https://fontawesome.com/)
-
-![image](images/Typography-image.png)
-
 All fonts were sourced through [Google Fonts](https://fonts.google.com/)
-
 The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
 The headlines' bold, Playfair Display font draws attention without being unduly harsh, and nicely balanced. 
+
+![image](images/Typography-image.png)
 
 #### Layout
 
