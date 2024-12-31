@@ -58,7 +58,7 @@ The design features a red background with a festive touch of falling snowflakes.
 providing an elegant contrast against the red background and adding a holiday feel to the quiz page.
 
 #### Logo
-The logo was desgined and downloaded from [Design.com](https://www.design.com/)
+The logo was designed and downloaded from [Design.com](https://www.design.com/)
 
 ![image](assets/images/crochet-logo.png)
 
@@ -69,6 +69,7 @@ When users hover over the buttons, they change to gold, providing an air of beau
 The use of red, green, and gold suggests a Christmas or winter motif, making the design visually appealing and seasonal.
 
 ![image](images/color-scheme.png)
+
 #### Typography
 The typography enhances the festive design by being clear, bold, and modern. The quiz questions are written in an effective and easy-to-read font, 
 such as Playfair Display or sans-serif, which makes them stand out on the page. The button language is straightforward and clear, so it's readable and complements the modern design.  
@@ -84,22 +85,23 @@ The headlines' bold, Playfair Display font draws attention without being unduly 
 The quiz page's layout is simple and practical, intended to keep the user focused on the quiz information while retaining a festive theme:
 
 1. The background: The entire page has a red backdrop with animated falling snowflakes, which creates a lively and appealing mood.
-2. Question Section: The question is prominently displayed at the top-centre of the page in a huge, bold font, making it the design's focus point.
+2. Question Section: The question is prominently displayed at the top centre of the page under the heading in a bold font making it the design's focus point.
 3. The answer buttons appear beneath the question in a grid or single-column arrangement, depending on the screen size.
 4. The buttons are evenly placed for clarity, with a bright green colour and a gold hover effect to emphasise interactivity.
-   Responsive Design: The layout adapts to various screen sizes, making the quiz accessible on both desktop and mobile devices.
+   Responsive Design: The layout adapts to various screen sizes, making the quiz accessible on desktop, mobile and iPad devices.
    Elements modify spacing and position to ensure a clean appearance on smaller displays.
    
-This layout strikes a mix between utility and the festive theme, making the quiz both visually appealing and easy to browse.
+This layout is striking with a mix of utility and the festive theme, making the quiz visually appealing and easy to browse.
 
 #### Imagery
-The background image serves as a hero image, which is designed to be striking and eye catching to intise user's attention. The image came from [freepik](https://www.freepik.com/)
+The imagery on the quiz page contributes to its festive and entertaining theme:
+Animated snowflakes gently fall across the screen, giving movement and a wintery atmosphere. The snowflakes are delicate and not distracting, 
+creating a dynamic background without overpowering the content.
+The bright red background shows warmth and festivity, making it the ideal canvas for the interactive features and adding to the festive mood.
+Green buttons with a gold hover effect offer contrast while also creating a sense of interactivity, directing the user's attention to the quiz answers.
+Overall, the picture uses movement (snowflakes), vivid colours, and modest decorative elements to create a welcoming and joyous mood.
 
-My website's hero image is intended to draw attention right away with its modern, stylish appearance. 
-It has a big picture that captures the core values of my brand, giving it an eye-catching and welcoming appearance. 
-A short headline that sums up my message sits in the centre of the image, providing visitors with an instant idea of what they can expect from the website.
-
-![image](assets/images/hero-image.png)
+![image](![image](images/Typography-image.png)
 ### Wireframes
 
 The wireframes I’ve created for my website serve as a visual reference for planning and organizing the overall layout of the site. 
@@ -113,7 +115,7 @@ Mobile Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=of
 
 ![image](images/mobile-view.png)
 
-Tablet and Ipad Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/Db889ae22799549a29dbf8a6036ac84fb/mode/design)
+Tablet and iPad Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/Db889ae22799549a29dbf8a6036ac84fb/mode/design)
 
 ![image](images/ipad-view.png)
 
