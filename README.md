@@ -61,12 +61,12 @@ The logo was desgined and downloaded from [Design.com](https://www.design.com/)
 ![image](assets/images/crochet-logo.png)
 
 #### Colour Scheme
-The two main colours used are Code light blue, and light purple.
-The colors are simple, with a light blue background (which matches your preference) 
-providing a soft, calming effect. This complements a crochet-themed site well.
-The text contrasts well with the background, making it easy to read.
+The colour scheme for the quiz page is festive and colourful. The primary background is a rich red, which creates a warm and welcoming environment. 
+The buttons are a vibrant, refreshing green that stands out against the red background. 
+When users hover over the buttons, they change to gold, providing an air of beauty and warmth. 
+The use of red, green, and gold suggests a Christmas or winter motif, making the design visually appealing and seasonal.
 
-![image](assets/images/color-palette.png)
+![image](images/color-scheme.png)
 #### Typography
 The Fredoka font is the primary font used throughout the entire website. 
 Sans Serif serves as the backup font in the event that the Fredoka font cannot be properly imported into the website. 
