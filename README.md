@@ -4,7 +4,8 @@
 
 The Christmas Quiz Game is a fun, festive trivia experience that tests your Christmas knowledge. Players can enjoy Christmas-themed questions.
 
-Each correct answer earns points and triggers fun animations from a festive mascot, while friendly feedback encourages players to keep going. The game features a scoreboard and a celebratory ending with snowfall and music.
+Each correct answer earns points and triggers fun animations from a festive mascot, while friendly feedback encourages players to keep going. 
+The game features a scoreboard and a celebratory ending with snowfall and music.
 
 Perfect for playing on your own or playing with friends, this game is a nice way to celebrate Christmas!
 
@@ -53,7 +54,8 @@ To explore the Game.
 
 ### Design
 
-The design features a red background with a festive touch of falling snowflakes. The buttons are green colour, with a gold hover effect, providing an elegant contrast against the red background and adding a holiday feel to the quiz page.
+The design features a red background with a festive touch of falling snowflakes. The buttons are green colour, with a gold hover effect, 
+providing an elegant contrast against the red background and adding a holiday feel to the quiz page.
 
 #### Logo
 The logo was desgined and downloaded from [Design.com](https://www.design.com/)
@@ -68,7 +70,9 @@ The use of red, green, and gold suggests a Christmas or winter motif, making the
 
 ![image](images/color-scheme.png)
 #### Typography
-The typography enhances the festive design by being clear, bold, and modern. The quiz questions are written in an effective and easy-to-read font, such as Playfair Display or sans-serif, which makes them stand out on the page. The button language is straightforward and clear, so it's readable and complements the modern design.  The text colours are largely black and white to contrast with the red background, with some tweaks to match the green and gold button styles.
+The typography enhances the festive design by being clear, bold, and modern. The quiz questions are written in an effective and easy-to-read font, 
+such as Playfair Display or sans-serif, which makes them stand out on the page. The button language is straightforward and clear, so it's readable and complements the modern design.  
+The text colours are largely black and white to contrast with the red background, with some tweaks to match the green and gold button styles.
 All fonts were sourced through [Google Fonts](https://fonts.google.com/)
 The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
 The headlines' bold, Playfair Display font draws attention without being unduly harsh, and nicely balanced. 
@@ -77,10 +81,16 @@ The headlines' bold, Playfair Display font draws attention without being unduly 
 
 #### Layout
 
-My website is laid out in a clear, simple, and easy-to-use manner that makes sure users have a seamless experience right away. 
-The hero image, which spans the width of the screen. 
-At the top of the page is the navagation bar which allows users to move around the site with ease.
-There are two call-to-action buttons clearly visible for simple access and takes the user to the part of the site they wish to go to.
+The quiz page's layout is simple and practical, intended to keep the user focused on the quiz information while retaining a festive theme:
+
+1. The background: The entire page has a red backdrop with animated falling snowflakes, which creates a lively and appealing mood.
+2. Question Section: The question is prominently displayed at the top-centre of the page in a huge, bold font, making it the design's focus point.
+3. The answer buttons appear beneath the question in a grid or single-column arrangement, depending on the screen size.
+4. The buttons are evenly placed for clarity, with a bright green colour and a gold hover effect to emphasise interactivity.
+   Responsive Design: The layout adapts to various screen sizes, making the quiz accessible on both desktop and mobile devices.
+   Elements modify spacing and position to ensure a clean appearance on smaller displays.
+   
+This layout strikes a mix between utility and the festive theme, making the quiz both visually appealing and easy to browse.
 
 #### Imagery
 The background image serves as a hero image, which is designed to be striking and eye catching to intise user's attention. The image came from [freepik](https://www.freepik.com/)
