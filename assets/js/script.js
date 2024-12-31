@@ -65,9 +65,32 @@ function startQuiz(){
     let score = 0;
     let time = 0;
   }
-// function to show questions
+// function to show elements
 const questionEl = document.getElementById("questions");
 const answerButtons = document.querySelectorAll(".answer-btn");
 let scoreEl = document.getElementById("score");
 let timeEl = document.getElementById("time");
 startQuiz()
+// function to show question 
+function question () {
+    const current = quiz[currentQuestion];
+    questionEl.textContent = current.question;
+    answerButtons.forEach((button, index) => {
+        button.textContent = CanvasCaptureMediaStreamTrack.answers[index];
+    });
+}
+// function for checking answer
+function checkAnswer(index) {
+    if (index === quiz [currentQuestion].correct) {
+        score++;
+        scoreEl.textContent = `Score: ${score}`;
+    }
+    currentQuestion++;
+    if(currentQuestion < quiz.lenght) {
+        showQuestion();
+    } else {
+        questionEl.textContent = "End of Quiz";
+        document.getElementById("answers").style.display = "none";
+    }
+}
+showQuestion();
