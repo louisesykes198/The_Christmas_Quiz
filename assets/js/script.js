@@ -114,4 +114,7 @@ function createSnowflakes() {
   }
 }
 createSnowflakes();
+// Dynamically update the year in the footer
+const yearEl = document.getElementById("year");
+yearEl.textContent = new Date().getFullYear();
 
