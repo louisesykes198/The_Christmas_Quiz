@@ -1,6 +1,8 @@
 # The_Christmas_Quiz
 
 ## Description
+![image](https://github.com/louisesykes198/My_crochet_page/blob/main/assets/images/viewports.png?raw=true)
+[View the live project here.](https://louisesykes198.github.io/The_Christmas_Quiz/)
 
 The Christmas Quiz Game is a fun, festive trivia experience that tests your Christmas knowledge. Players can enjoy Christmas-themed questions.
 
