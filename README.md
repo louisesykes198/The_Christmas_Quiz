@@ -225,11 +225,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-![image](assets/images/html-checker.png)
+![image](images/html-validator.png)
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-![image](assets/images/css-validater.png)
+![image](images/css-validator.png)
 ### Testing User Stories from User Experience (UX) Section
     
 #### First Time Visitor Goals
