@@ -60,9 +60,9 @@ The design features a red background with a festive touch of falling snowflakes.
 providing an elegant contrast against the red background and adding a holiday feel to the quiz page.
 
 #### Favicon
-The logo was designed and downloaded from [Design.com](https://www.design.com/)
+The favicon was designed and downloaded from [w3cub.com](https://tools.w3cub.com/favicon-converter)
 
-![image](assets/images/crochet-logo.png)
+![image](assets/favicon_w3cub/android-chrome-192x192.png)
 
 #### Colour Scheme
 The colour scheme for the quiz page is festive and colourful. The primary background is a rich red, which creates a warm and welcoming environment. 
