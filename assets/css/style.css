@@ -84,10 +84,25 @@ footer {
   text-align: center;
   height: 130px;
   }
-@media (max-width: 600px) {
-  .questions-container {
-    flex-direction: row; /* Buttons side by side */
-  }
+  @media (max-width: 320px) {
+    body {
+        height: 70vh;
+    }
+
+    .answer-btn {
+        width: 75%;
+        margin: 10px auto;
+    }
+    questions-container{
+      width: 75%;
+    }
+    #question {
+        margin: 10px 10px;
+    }
+       footer {
+        padding: 10px 0;
+    }
+
 }
 
 
