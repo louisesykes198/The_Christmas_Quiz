@@ -126,13 +126,28 @@ Tablet and iPad Wireframe
 
 ### Answer Buttons
 
+The answer buttons in the quiz are meant to be interactive and visually engaging. They are in a festive green that complements the red background, providing a stunning contrast. When hovered over, the buttons take on a gold style, making them feel dynamic and interesting. Each button is clearly labeled with the available answers, ensuring they are easily readable. Their location is natural, with buttons simple to find on any screen, from desktop to mobile. These buttons improve the user experience by adding functionality and a festive feel to the quiz.
+
+![image](images/buttons.png)
+
+### Hover Effect
+The gold hover feature gives an interactive and festive feel to the quiz page. When users hover over the green answer buttons, the background colour changes to gold, producing a beautiful and eye-catching impression. This feature not only improves the visual appeal, but it also gives users clear feedback, making the buttons feel more interesting. The transition is smooth and simple, complementing the Christmas theme while keeping a modern, user-friendly appearance.
+
 ![image](images/buttons.png)
 
 ### Snowfall 
 
+Falling Snowflakes: Animated snowflakes gently fall across the screen, giving movement and a wintery atmosphere. The snowflakes are delicate and not distracting, creating a vibrant background without overpowering the content.
+
 ![image](images/Typography-image.png)
 
 ### Footer
+
+The footer adds a professional and polished touch to the quiz page. It includes the following text:
+
+"©2025 My Christmas Quiz. All rights reserved."
+
+It is styled with white lettering to complement the festive tone and sits neatly at the bottom of the page. Its minimalist design guarantees that it does not detract from the main material while yet performing a useful purpose.
 
 ![image](images/footer.png)
 
