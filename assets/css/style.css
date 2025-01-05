@@ -69,15 +69,36 @@ h1{
   #answers {
     text-align: center; 
   }
-.answer-btn:hover {
-  background-color: goldenrod;
- }
+  .answer-btn:hover {
+    background-color: goldenrod;
+   }
 /* Score styling */
 #score {
   margin-top: 20px;
   font-size: 25px;
   color: black;
   text-align: center;
+}
+#reset-btn {
+  display: block;
+  width: 50%; /* Adjust width as needed */
+  padding: 10px 20px;
+  margin: 10px auto; /* Adds spacing and centers buttons */
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #008F3E;
+  color: white;
+  text-align: center;
+}
+#reset-btn:hover {
+  background-color: #117b2f; /* Darker red on hover */
+}
+
+#reset-btn:active {
+  background-color: #130c0c; /* Even darker red when clicked */
+  transform: scale(0.98); /* Slightly shrink the button when clicked */
 }
 footer {
   background-color: #f34848;

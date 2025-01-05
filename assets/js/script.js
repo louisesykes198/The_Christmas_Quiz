@@ -60,6 +60,7 @@ let score = 0;
 const questionEl = document.getElementById("question");
 const answerButtons = document.querySelectorAll(".answer-btn");
 const scoreEl = document.getElementById("score");
+const resetBtn = document.getElementById("reset-btn");
 
 // Function to show the question
 function showQuestion() {
@@ -68,7 +69,9 @@ function showQuestion() {
   answerButtons.forEach((button, index) => {
     button.textContent = current.possibleAnswers[index];
   });
-}
+  resetBtn.style.display = "none"; // Hide reset button
+  }
+
 // This function is to check the answer
 function checkAnswer(index) {
   if (index === questions[currentQuestion].correctAnswer) {
@@ -81,6 +84,7 @@ function checkAnswer(index) {
   } else {
     questionEl.textContent = "Quiz Complete!";
     document.getElementById("answers").style.display = "none";
+    resetBtn.style.display = "block"; 
   }
 }
 // This is the event listeners for the answer buttons
@@ -92,7 +96,7 @@ answerButtons.forEach(button => {
 });
 // This will Load the first question
 showQuestion()
-// 
+// function to snowflakes code used from chat GPT
 function createSnowflakes() {
   const snowflakesContainer = document.getElementById('snowflakes');
   const numberOfSnowflakes = 100; // Change this to add more snowflakes
@@ -119,4 +123,11 @@ document.addEventListener("DOMContentLoaded", () => {
  let yearEl = document.getElementById("year");
   yearEl.textContent = new Date().getFullYear();
 });
-
+// Reset the game
+resetBtn.addEventListener("click", () => {
+  currentQuestion = 0;
+  score = 0;
+  scoreEl.textContent = `Score: ${score}`;
+  document.getElementById("answers").style.display = "block"; // Show answer buttons
+  showQuestion(); // Load the first question
+});
