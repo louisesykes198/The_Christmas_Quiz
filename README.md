@@ -133,7 +133,7 @@ The answer buttons in the quiz are meant to be interactive and visually engaging
 ### Hover Effect
 The gold hover feature gives an interactive and festive feel to the quiz page. When users hover over the green answer buttons, the background colour changes to gold, producing a beautiful and eye-catching impression. This feature not only improves the visual appeal, but it also gives users clear feedback, making the buttons feel more interesting. The transition is smooth and simple, complementing the Christmas theme while keeping a modern, user-friendly appearance.
 
-![image](images/buttons.png)
+![image](images/gold-hover.png)
 
 ### Snowfall 
 
@@ -219,6 +219,10 @@ Friends and family members were asked to review the site and documentation to po
 ### Reviews
 
 ### Known Bugs
+
+Hover button stays gold when it moves to the next question
+
+![image](images/highlighed-button.png)
 
 Performance, Accessibility, Best Practice and SEO checked on.
 
