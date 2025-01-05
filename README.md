@@ -124,11 +124,13 @@ Tablet and iPad Wireframe
 
 ## Features
 
-### 
+### Answer Buttons
 
-![image](assets/images/navbar.png)
+![image](images/buttons.png)
 
+### Snowfall 
 
+![image](images/Typography-image.png)
 
 ### Footer
 
