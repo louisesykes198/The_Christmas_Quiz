@@ -211,25 +211,21 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from user Experience (UX) Section
     
-#### First Time Visitor Goals
+#### Features I would like to implement
 
-#### Returning Visitor Goals
+1. Add a timer to make the quiz more challenging.
+2. Shuffle the questions to keep the quiz fresh for repeat players.
+3. Add a progress bar that fills up as the user answers questions.
+4. Add difficulty levels so users can choose between easy, medium, or hard questions at the start of the quiz.
+5. Add background music with a button to turn it on and off.
 
 ### Further Testing
 
 The quiz page was tested on Google Chrome, Microsoft Edge and Safari browsers.
-The quiz page was viewed on a variety of devices such as Desktop, Laptop, samsung galaxy A12, samsung galaxy s22 & iPhoneSE.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+The quiz page was viewed on various devices, such as a Desktop, Laptop, Samsung Galaxy A12, Samsung Galaxy S22, and iPhoneSE.
+Friends and family members were asked to review the site and documentation to identify bugs and/or user experience issues.
 
 ### Reviews
-
-### Known Bugs
-
-Hover button stays gold when it moves to the next question
-
-![image](images/highlighed-button.png)
-
-Performance, Accessibility, Best Practice and SEO checked on.
 
 #### Mobile Performance 
 
