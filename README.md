@@ -177,15 +177,11 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 ## Testing
 
-The website is responsive on all device sizes.
+The quiz is responsive on different device sizes
 
-### Automated Testing
+### Browser Compatibility and Responsive Devices
 
-Automated testing uses pre-scripted test cases and tools to automatically validate software operation, making it ideal for repeated, large-scale activities like regression, load, and performance testing. It provides speed, accuracy, and efficiency, especially for tests that need to run repeatedly or across multiple versions of an application. However, it involves an initial investment in scripts and tools, making it more ideal for long-term use in projects that are constantly changing.
-
-### Manual Testing
-
-Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment, and user experience review. It is able to adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
+![image](https://github.com/user-attachments/assets/cba0e1d2-62e8-41bc-b499-4a196ab60ff7)
 
 ### Desktop
 
@@ -198,6 +194,14 @@ Manual testing, on the other hand, necessitates the execution of test cases by h
 ### Ipad pro
 
 ![image](images/ipad.png)
+
+### Automated Testing
+
+Automated testing uses pre-scripted test cases and tools to automatically validate software operation, making it ideal for repeated, large-scale activities like regression, load, and performance testing. It provides speed, accuracy, and efficiency, especially for tests that need to run repeatedly or across multiple versions of an application. However, it involves an initial investment in scripts and tools, making it ideal for long-term use in projects that are constantly changing.
+
+### Manual Testing
+
+Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment, and user experience review. It can adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
