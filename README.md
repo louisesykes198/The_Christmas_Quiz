@@ -175,7 +175,7 @@ It is styled with white lettering to complement the festive tone and sits neatly
 6. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B)
     - Balsamiq was used to create the wireframes during the design process.
 7. [Coolors:](https://coolors.co/)
-    -Coolors is used to make interactive color palettes.
+    - Coolors is used to make interactive color palettes.
 8.  [Am I Responsive:](https://ui.dev/amiresponsive)
     - This is used to make the screenshots to show what the website looks like for the readme file.
 9.  [ChatGPT:](https://chatgpt.com/)
@@ -227,7 +227,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ![image](images/js-validator.png)
 
 
-### Testing User Stories from User Experience (UX) Section
+### Testing User Stories from the User Experience (UX) Section
+
+#### First Time Visitor Goals
+
+For a first-time visitor, the goal is to create a seamless, engaging, and intuitive experience that encourages them to explore and engage in the quiz. The user should be able to start the quiz without confusion, and the UI should guide them through each stage easily. The visitor should be welcomed with clear straightforward navigation and interactive features like easily accessible answer buttons. By the end of the quiz, the visitor should have enjoyed the experience and be ready to try again. The idea is to make a good first impression and encourage repeat visits.
+
+#### Returning Visitor Goals
+
+Returning visitors should feel as if they are revisiting a familiar setting.  Finally, the goal is to increase engagement and loyalty by making the experience enjoyable enough that the visitor will return.
+Hopefully, the visitor will make the game part of the Christmas tradition.
     
 #### Features I would like to implement
 
