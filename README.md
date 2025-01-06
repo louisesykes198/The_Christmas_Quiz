@@ -173,7 +173,7 @@ It is styled with white lettering to complement the festive tone and sits neatly
 5. [GitHub:](https://github.com/)
     - GitHub is used to store the project's code after being pushed from Git.
 6. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the wireframes during the design process.
 7. [Coolors:](https://coolors.co/)
     -Coolors is used to make interactive color palettes.
 8.  [Am I Responsive:](https://ui.dev/amiresponsive)
@@ -227,7 +227,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ![image](images/js-validator.png)
 
 
-### Testing User Stories from user Experience (UX) Section
+### Testing User Stories from User Experience (UX) Section
     
 #### Features I would like to implement
 
@@ -236,14 +236,27 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 3. Add a progress bar that fills up as the user answers questions.
 4. Add difficulty levels so users can choose between easy, medium, or hard questions at the start of the quiz.
 5. Add background music with a button to turn it on and off.
+6. Add different themes so people can choose the category they would like to play. 
 
 ### Further Testing
 
-The quiz page was tested on Google Chrome, Microsoft Edge and Safari browsers.
-The quiz page was viewed on various devices, such as a Desktop, Laptop, Samsung Galaxy A12, Samsung Galaxy S22, and iPhoneSE.
+The quiz page was tested on Google Chrome, Microsoft Edge, and Safari browsers.
+The quiz page was viewed on various devices, such as a Desktop, Laptop, Samsung Galaxy A12, Samsung Galaxy S22, and iPhone SE.
 Friends and family members were asked to review the site and documentation to identify bugs and/or user experience issues.
 
 ### Reviews
+
+Sarah M Apple iPhone XR - The Christmas Quiz is a super fun game that I admittedly played quite a few times!
+The website had a lovely Christmas feel and aesthetic with the red and green colors, and the snow falling was a sweet 
+little touch.
+
+Lindsey Combes Samsung Galaxy A52s - I think the quiz is nicely set out, with its bright Christmas colours and snowy background
+Easy to read the questions and answers sections making play quite simple for all ages. would play it again and recommend it to anyone.
+
+Gwen Combes age 9 - Great quiz, easy to read, I needed help with some of the answers as I'm only 9 years old. I like the snow and the bright Christmas colours. 
+I would play again, but I think it needs more Christmas Questions.
+
+Gemma Stead - Yes everything is working and its good.
 
 #### Mobile Performance 
 
