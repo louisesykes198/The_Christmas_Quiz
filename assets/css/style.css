@@ -1,107 +1,120 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 body {
-  font-family: "Playfair Display", sans-serif;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-color: #f34848;
+    font-family: "Playfair Display", sans-serif;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f34848;
 }
-h1{
-  text-align: center;
-  padding-bottom: 50px;
-  padding-top: 50px;
+
+h1 {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
+
 /* Basic styles for the snowflakes container */
 #snowflakes {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: 9999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
 }
 
 /* Snowflake styles */
 .snowflake {
-  position: absolute;
-  top: -10px;
-  background-color: white;
-  border-radius: 50%;
-  width: 10px;
-  height: 10px;
-  opacity: 0.8;
-  animation: fall linear infinite;
+    position: absolute;
+    top: -10px;
+    background-color: white;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    opacity: 0.8;
+    animation: fall linear infinite;
 }
+
 /* Snowflake falling animation */
 @keyframes fall {
-  0% {
-    transform: translateY(-10px);
-  }
-  100% {
-    transform: translateY(100vh);
-  }
+    0% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(100vh);
+    }
 }
+
 /* Question styling */
 #question {
-  font-size: 20px;
-  margin-bottom: 20px;
-  color: black;
-  text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: black;
+    text-align: center;
 }
+
 /* Answer buttons */
 .answer-btn {
-  display: block;
-  width: 50%; 
-  padding: 10px 20px;
-  margin: 10px auto; 
-  font-size: 16px;
-  cursor: pointer;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #008F3E;
-  color: white;
-  text-align: center;
-  }
-  #answers {
-    text-align: center; 
-  }
-  /* Score styling */
+    display: block;
+    width: 50%;
+    padding: 10px 20px;
+    margin: 10px auto;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #008F3E;
+    color: white;
+    text-align: center;
+}
+
+#answers {
+    text-align: center;
+}
+
+/* Score styling */
 #score {
-  margin-top: 20px;
-  font-size: 25px;
-  color: black;
-  text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    color: black;
+    text-align: center;
 }
+
 #reset-btn {
-  display: block;
-  width: 50%; /* Adjust width as needed */
-  padding: 10px 20px;
-  margin: 10px auto; /* Adds spacing and centers buttons */
-  font-size: 16px;
-  cursor: pointer;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #008F3E;
-  color: white;
-  text-align: center;
+    display: block;
+    width: 50%;
+    /* Adjust width as needed */
+    padding: 10px 20px;
+    margin: 10px auto;
+    /* Adds spacing and centers buttons */
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #008F3E;
+    color: white;
+    text-align: center;
 }
+
 .reset-btn:hover {
-  background-color: goldenrod; 
+    background-color: goldenrod;
 }
 
 footer {
-  background-color: #f34848;
-  color: white;
-  font-size: 12px;
-  width: 100%;
-  text-align: center;
-  height: 130px;
-  margin-top: 300px;
-  }
-   @media (max-width: 320px) {
+    background-color: #f34848;
+    color: white;
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+    height: 130px;
+    margin-top: 300px;
+}
+
+@media (max-width: 320px) {
     body {
         height: 70vh;
     }
@@ -110,13 +123,16 @@ footer {
         width: 75%;
         margin: 10px auto;
     }
-    questions-container{
-      width: 75%;
+
+    questions-container {
+        width: 75%;
     }
+
     #question {
         margin: 10px 10px;
     }
-       footer {
+
+    footer {
         padding: 10px 0;
     }
 
