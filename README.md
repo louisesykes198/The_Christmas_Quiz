@@ -130,16 +130,17 @@ The answer buttons in the quiz are meant to be interactive and visually engaging
 
 ![image](images/buttons.png)
 
-### Hover Effect
-The gold hover feature gives an interactive and festive feel to the quiz page. When users hover over the green answer buttons, the background colour changes to gold, producing a beautiful and eye-catching impression. This feature not only improves the visual appeal, but it also gives users clear feedback, making the buttons feel more interesting. The transition is smooth and simple, complementing the Christmas theme while keeping a modern, user-friendly appearance.
-
-![image](images/gold-hover.png)
-
 ### Snowfall 
 
 Falling Snowflakes: Animated snowflakes gently fall across the screen, giving movement and a wintery atmosphere. The snowflakes are delicate and not distracting, creating a vibrant background without overpowering the content.
 
 ![image](images/Typography-image.png)
+
+### Play Again Button
+
+After completing the quiz, participants can restart it by clicking the "Play Again" button, allowing them to test themselves once more. By clicking this option, users can reset their score to zero and start the quiz again, allowing them to improve their performance. This feature promotes repeat involvement and allows users to follow their progress across numerous attempts, making the experience enjoyable and interactive. The button is clearly labelled and easily accessible, allowing users to quickly restart the quiz without taking additional steps.
+
+![image](images/play-again-button.png)
 
 ### Footer
 
@@ -163,24 +164,31 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-2. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-3. [Google Fonts:](https://fonts.google.com/)
+1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-4. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-5. [Git](https://git-scm.com/)
+2. [JSHint js Validator](https://jshint.com/)
+    - to check for errors the my js code.
+4. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-6. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
-7. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B))
-    - balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+5. [GitHub:](https://github.com/)
+    - GitHub is used to store the project's code after being pushed from Git.
+6. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B)
+    - Balsamiq was used to create the wireframes during the design process.
+7. [Coolors:](https://coolors.co/)
+    - Coolors is used to make interactive color palettes.
+8.  [Am I Responsive:](https://ui.dev/amiresponsive)
+    - This is used to make the screenshots to show what the website looks like for the readme file.
+9.  [ChatGPT:](https://chatgpt.com/)
+10. - This was used to help with the snowflakes falling in the background.
+11. Excel this was used to make the table in browser compatibility and responsive devices
 
 ## Testing
 
-The website is responsive on all device sizes.
+The quiz is responsive on different device sizes
+
+### Browser Compatibility and Responsive Devices
+
+![image](https://github.com/user-attachments/assets/cba0e1d2-62e8-41bc-b499-4a196ab60ff7)
 
 ### Desktop
 
@@ -193,6 +201,16 @@ The website is responsive on all device sizes.
 ### Ipad pro
 
 ![image](images/ipad.png)
+
+### Automated Testing
+
+Automated testing uses pre-scripted test cases and tools to automatically validate software operation, making it ideal for repeated, large-scale activities like regression, load, and performance testing. It provides speed, accuracy, and efficiency, especially for tests that need to run repeatedly or across multiple versions of an application. However, it involves an initial investment in scripts and tools, making it ideal for long-term use in projects that are constantly changing.
+
+### Manual Testing
+
+Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment, and user experience review. It can adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
+
+## Validator
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -209,7 +227,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ![image](images/js-validator.png)
 
 
-### Testing User Stories from user Experience (UX) Section
+### Testing User Stories from the User Experience (UX) Section
+
+#### First Time Visitor Goals
+
+For a first-time visitor, the goal is to create a seamless, engaging, and intuitive experience that encourages them to explore and engage in the quiz. The user should be able to start the quiz without confusion, and the UI should guide them through each stage easily. The visitor should be welcomed with clear straightforward navigation and interactive features like easily accessible answer buttons. By the end of the quiz, the visitor should have enjoyed the experience and be ready to try again. The idea is to make a good first impression and encourage repeat visits.
+
+#### Returning Visitor Goals
+
+Returning visitors should feel as if they are revisiting a familiar setting.  Finally, the goal is to increase engagement and loyalty by making the experience enjoyable enough that the visitor will return.
+Hopefully, the visitor will make the game part of the Christmas tradition.
     
 #### Features I would like to implement
 
@@ -218,14 +245,27 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 3. Add a progress bar that fills up as the user answers questions.
 4. Add difficulty levels so users can choose between easy, medium, or hard questions at the start of the quiz.
 5. Add background music with a button to turn it on and off.
+6. Add different themes so people can choose the category they would like to play. 
 
 ### Further Testing
 
-The quiz page was tested on Google Chrome, Microsoft Edge and Safari browsers.
-The quiz page was viewed on various devices, such as a Desktop, Laptop, Samsung Galaxy A12, Samsung Galaxy S22, and iPhoneSE.
+The quiz page was tested on Google Chrome, Microsoft Edge, and Safari browsers.
+The quiz page was viewed on various devices, such as a Desktop, Laptop, Samsung Galaxy A12, Samsung Galaxy S22, and iPhone SE.
 Friends and family members were asked to review the site and documentation to identify bugs and/or user experience issues.
 
 ### Reviews
+
+Sarah M Apple iPhone XR - The Christmas Quiz is a super fun game that I admittedly played quite a few times!
+The website had a lovely Christmas feel and aesthetic with the red and green colors, and the snow falling was a sweet 
+little touch.
+
+Lindsey Combes Samsung Galaxy A52s - I think the quiz is nicely set out, with its bright Christmas colours and snowy background
+Easy to read the questions and answers sections making play quite simple for all ages. would play it again and recommend it to anyone.
+
+Gwen Combes age 9 - Great quiz, easy to read, I needed help with some of the answers as I'm only 9 years old. I like the snow and the bright Christmas colours. 
+I would play again, but I think it needs more Christmas Questions.
+
+Gemma Stead - Yes everything is working and its good.
 
 #### Mobile Performance 
 
@@ -295,10 +335,6 @@ The full-screen background image code came from this [freepik](https://freepik.c
 ### Content
 
 All content was written by the developer.
-
-### Media
-
-All Images were created by the [fontawesome](https://fontawesome.com/)
 
 ### Acknowledgements
 
