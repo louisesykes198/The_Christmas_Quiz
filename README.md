@@ -326,11 +326,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
-### Code
-
-The full-screen background image code came from this [freepik](https://freepik.com)
-
-[Bootstrap5](https://getbootstrap.com/docs/5.3.3/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+[Christmas Trivia: 50 Fun Questions With Answers - Parade:](https://parade.com/943457/parade/christmas-trivia/)
+    - This is where I got the questions and answers for the quiz.
+    
+[YouTube:](https://www.youtube.com/)
+    - This is where I watch videos of people making quizzes. 
+Such as FlorinPop, GreatStack, and Brian Design
 
 ### Content
 
