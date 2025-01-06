@@ -67,15 +67,14 @@ The favicon was designed and downloaded from [w3cub.com](https://tools.w3cub.com
 #### Colour Scheme
 The colour scheme for the quiz page is festive and colourful. The primary background is a rich red, which creates a warm and welcoming environment. 
 The buttons are a vibrant, refreshing green that stands out against the red background. 
-When users hover over the buttons, they change to gold, providing an air of beauty and warmth. 
-The use of red, green, and gold suggests a Christmas or winter motif, making the design visually appealing and seasonal.
+The use of red and green suggests a Christmas or winter motif, making the design visually appealing and seasonal.
 
 ![image](images/color-scheme.png)
 
 #### Typography
 The typography enhances the festive design by being clear, bold, and modern. The quiz questions are written in an effective and easy-to-read font, 
 such as Playfair Display or sans-serif, which makes them stand out on the page. The button language is straightforward and clear, so it's readable and complements the modern design.  
-The text colours are largely black and white to contrast with the red background, with some tweaks to match the green and gold button styles.
+The text colours are largely black and white to contrast with the red background, with some tweaks to match the green button styles.
 All fonts were sourced through [Google Fonts](https://fonts.google.com/)
 The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
 The headlines' bold, Playfair Display font draws attention without being unduly harsh, and nicely balanced. 
@@ -89,7 +88,7 @@ The quiz page's layout is simple and practical, intended to keep the user focuse
 1. The background: The entire page has a red backdrop with animated falling snowflakes, which creates a lively and appealing mood.
 2. Question Section: The question is prominently displayed at the top centre of the page under the heading in a bold font making it the design's focus point.
 3. The answer buttons appear beneath the question in a grid or single-column arrangement, depending on the screen size.
-4. The buttons are evenly placed for clarity, with a bright green colour and a gold hover effect to emphasise interactivity.
+4. The buttons are evenly placed for clarity, with a bright green colour.
    Responsive Design: The layout adapts to various screen sizes, making the quiz accessible on desktop, mobile and iPad devices.
    Elements modify spacing and position to ensure a clean appearance on smaller displays.
    
@@ -100,7 +99,7 @@ The imagery on the quiz page contributes to its festive and entertaining theme:
 Animated snowflakes gently fall across the screen, giving movement and a wintery atmosphere. The snowflakes are delicate and not distracting, 
 creating a dynamic background without overpowering the content.
 The bright red background shows warmth and festivity, making it the ideal canvas for the interactive features and adding to the festive mood.
-Green buttons with a gold hover effect offer contrast while also creating a sense of interactivity, directing the user's attention to the quiz answers.
+Green buttons direct the user's attention to the quiz answers.
 Overall, the picture uses movement (snowflakes), vivid colours, and modest decorative elements to create a welcoming and joyous mood.
 
 ![image](images/Typography-image.png)
