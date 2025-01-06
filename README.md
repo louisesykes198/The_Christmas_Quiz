@@ -136,6 +136,12 @@ Falling Snowflakes: Animated snowflakes gently fall across the screen, giving mo
 
 ![image](images/Typography-image.png)
 
+### Play Again Button
+
+After completing the quiz, participants can restart it by clicking the "Play Again" button, allowing them to test themselves once more. By clicking this option, users can reset their score to zero and start the quiz again, allowing them to improve their performance. This feature promotes repeat involvement and allows users to follow their progress across numerous attempts, making the experience enjoyable and interactive. The button is clearly labelled and easily accessible, allowing users to quickly restart the quiz without taking additional steps.
+
+![image](images/play-again-button.png)
+
 ### Footer
 
 The footer adds a professional and polished touch to the quiz page. It includes the following text:
