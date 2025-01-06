@@ -204,6 +204,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ![image](images/css-validator.png)
 
+[JSHint js Validator](https://jshint.com/)
+
+![image](images/js-validator.png)
+
+
 ### Testing User Stories from user Experience (UX) Section
     
 #### First Time Visitor Goals
