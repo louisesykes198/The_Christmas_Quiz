@@ -166,14 +166,21 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-2. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-3. [Git](https://git-scm.com/)
+2. [JSHint js Validator](https://jshint.com/)
+    - to check for errors the my js code.
+4. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-4. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
-5. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B))
-    - balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+5. [GitHub:](https://github.com/)
+    - GitHub is used to store the project's code after being pushed from Git.
+6. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+7. [Coolors:](https://coolors.co/)
+    -Coolors is used to make interactive color palettes.
+8.  [Am I Responsive:](https://ui.dev/amiresponsive)
+    - This is used to make the screenshots to show what the website looks like for the readme file.
+9.  [ChatGPT:](https://chatgpt.com/)
+10. - This was used to help with the snowflakes falling in the background.
+11. Excel this was used to make the table in browser compatibility and responsive devices
 
 ## Testing
 
@@ -202,6 +209,8 @@ Automated testing uses pre-scripted test cases and tools to automatically valida
 ### Manual Testing
 
 Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment, and user experience review. It can adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
+
+## Validator
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -304,10 +313,6 @@ The full-screen background image code came from this [freepik](https://freepik.c
 ### Content
 
 All content was written by the developer.
-
-### Media
-
-All Images were created by the [fontawesome](https://fontawesome.com/)
 
 ### Acknowledgements
 
