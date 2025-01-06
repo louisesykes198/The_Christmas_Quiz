@@ -323,7 +323,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-## Credits
+### Credits
 
 [Christmas Trivia: 50 Fun Questions With Answers - Parade:](https://parade.com/943457/parade/christmas-trivia/)
     - This is where I got the questions and answers for the quiz.
