@@ -130,11 +130,6 @@ The answer buttons in the quiz are meant to be interactive and visually engaging
 
 ![image](images/buttons.png)
 
-### Hover Effect
-The gold hover feature gives an interactive and festive feel to the quiz page. When users hover over the green answer buttons, the background colour changes to gold, producing a beautiful and eye-catching impression. This feature not only improves the visual appeal, but it also gives users clear feedback, making the buttons feel more interesting. The transition is smooth and simple, complementing the Christmas theme while keeping a modern, user-friendly appearance.
-
-![image](images/gold-hover.png)
-
 ### Snowfall 
 
 Falling Snowflakes: Animated snowflakes gently fall across the screen, giving movement and a wintery atmosphere. The snowflakes are delicate and not distracting, creating a vibrant background without overpowering the content.
@@ -163,24 +158,28 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-2. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-3. [Google Fonts:](https://fonts.google.com/)
+1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-4. [jQuery:](https://jquery.com/)
+2. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-5. [Git](https://git-scm.com/)
+3. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-6. [GitHub:](https://github.com/)
+4. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-7. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B))
+5. [balsamiq:](https://balsamiq.cloud/sp5ubr/pf6h5dr/r5F4B))
     - balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
 
 The website is responsive on all device sizes.
+
+### Automated Testing
+
+Automated testing uses pre-scripted test cases and tools to automatically validate software operation, making it ideal for repeated, large-scale activities like regression, load, and performance testing. It provides speed, accuracy, and efficiency, especially for tests that need to run repeatedly or across multiple versions of an application. However, it involves an initial investment in scripts and tools, making it more ideal for long-term use in projects that are constantly changing.
+
+### Manual Testing
+
+Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment, and user experience review. It is able to adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
 
 ### Desktop
 
