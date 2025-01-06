@@ -1,3 +1,4 @@
+/*Link to google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 body {
@@ -84,6 +85,7 @@ h1 {
     text-align: center;
 }
 
+/* Reset game button styling*/
 #reset-btn {
     display: block;
     width: 50%;
@@ -104,6 +106,7 @@ h1 {
     background-color: goldenrod;
 }
 
+/* Footer styling */
 footer {
     background-color: #f34848;
     color: white;
@@ -113,7 +116,7 @@ footer {
     height: 130px;
     margin-top: 300px;
 }
-
+/*  Media query */
 @media (max-width: 320px) {
     body {
         height: 70vh;

@@ -52,7 +52,7 @@ const questions = [{
 ];
 let currentQuestion = 0;
 let score = 0;
-// Select the elements
+// Selects the elements
 const questionEl = document.getElementById("question");
 const answerButtons = document.querySelectorAll(".answer-btn");
 const scoreEl = document.getElementById("score");
@@ -81,7 +81,7 @@ if (currentQuestion < questions.length) {
     resetBtn.style.display = "block";
 }
 }
-// Add event listeners to the answer buttons
+// Event listeners to the answer buttons
 answerButtons.forEach((button, index) => {
 button.addEventListener("click", () => {
     checkAnswer(index);
