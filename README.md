@@ -182,6 +182,10 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 ## Testing
 
+To test the quiz, I opened the quiz in a browser such as Chrome or Microsoft Edge. I checked the first question and answer boxes displayed on the screen correctly.
+When clicking the answer, I checked that the score starts at 0 and if the answer was correct the score, then changed to 1.
+Once I got to the end of the quiz I made sure the information on the quiz complete page looked good and the play again button took you back to the start of the quiz.
+
 The quiz is responsive on different device sizes
 
 ### Browser Compatibility and Responsive Devices
