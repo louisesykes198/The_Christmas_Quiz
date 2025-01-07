@@ -23,6 +23,11 @@ I want to create a fun and engaging Christmas-themed quiz that tests my holiday 
 
 you can Learn interesting facts, challenge yourself, and share the joy of Christmas with friends and family.
 
+### Aim
+
+The goal of this quiz is to see how many questions you can answer correctly. Your score will increase with each correct answer. 
+The quiz won't reveal whether your answers are right or wrong, allowing you to try again and aim to beat your previous score!
+
 #### First Time Visitor Goals
 
 To explore the Game.
@@ -247,7 +252,8 @@ Hopefully, the visitor will make the game part of the Christmas tradition.
 3. Add a progress bar that fills up as the user answers questions.
 4. Add difficulty levels so users can choose between easy, medium, or hard questions at the start of the quiz.
 5. Add background music with a button to turn it on and off.
-6. Add different themes so people can choose the category they would like to play. 
+6. Add different themes so people can choose the category they would like to play.
+7. Add a way to tell you if the answer is right or wrong 
 
 ### Further Testing
 
@@ -277,7 +283,7 @@ Gemma Stead - Yes everything is working and its good.
 
 ![image](docs/desktop-pro.png)
 
-#### Deployment
+## Deployment
 
 ### GitHub Pages
 
