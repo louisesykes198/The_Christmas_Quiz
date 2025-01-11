@@ -81,7 +81,7 @@ such as Playfair Display or sans-serif, which makes them stand out on the page. 
 The text colours are largely black and white to contrast with the red background, with some tweaks to match the green button styles.
 All fonts were sourced through [Google Fonts](https://fonts.google.com/)
 The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
-The headlines' bold, Playfair Display font draws attention without being unduly harsh, and nicely balanced. 
+The headlines' bold, Mountains of Christmas font draws attention without being unduly harsh, and nicely balanced. 
 
 ![image](docs/Typography-image.png)
 
