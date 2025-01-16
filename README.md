@@ -1,7 +1,6 @@
 # The_Christmas_Quiz
 
-## Description
-![image](images/device-images.png)
+![image](docs/device-images.png)
 [View the live project here.](https://louisesykes198.github.io/The_Christmas_Quiz/)
 
 The Christmas Quiz Game is a fun, festive trivia experience that tests your Christmas knowledge. Players can enjoy Christmas-themed questions.
@@ -23,6 +22,11 @@ This quiz is for users who love Christmas and enjoy trivia games.
 I want to create a fun and engaging Christmas-themed quiz that tests my holiday knowledge while giving me a good festive experience.
 
 you can Learn interesting facts, challenge yourself, and share the joy of Christmas with friends and family.
+
+### Aim
+
+The goal of this quiz is to see how many questions you can answer correctly. Your score will increase with each correct answer. 
+The quiz won't reveal whether your answers are right or wrong, allowing you to try again and aim to beat your previous score!
 
 #### First Time Visitor Goals
 
@@ -62,14 +66,14 @@ providing an elegant contrast against the red background and adding a holiday fe
 #### Favicon
 The favicon was designed and downloaded from [w3cub.com](https://tools.w3cub.com/favicon-converter)
 
-![image](assets/favicon_w3cub/android-chrome-192x192.png)
+![image](assets/favicon/android-chrome-192x192.png)
 
 #### Colour Scheme
 The colour scheme for the quiz page is festive and colourful. The primary background is a rich red, which creates a warm and welcoming environment. 
 The buttons are a vibrant, refreshing green that stands out against the red background. 
 The use of red and green suggests a Christmas or winter motif, making the design visually appealing and seasonal.
 
-![image](images/color-scheme.png)
+![image](docs/color-scheme.png)
 
 #### Typography
 The typography enhances the festive design by being clear, bold, and modern. The quiz questions are written in an effective and easy-to-read font, 
@@ -77,9 +81,9 @@ such as Playfair Display or sans-serif, which makes them stand out on the page. 
 The text colours are largely black and white to contrast with the red background, with some tweaks to match the green button styles.
 All fonts were sourced through [Google Fonts](https://fonts.google.com/)
 The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
-The headlines' bold, Playfair Display font draws attention without being unduly harsh, and nicely balanced. 
+The headlines' bold, Mountains of Christmas font draws attention without being unduly harsh, and nicely balanced. 
 
-![image](images/Typography-image.png)
+![image](docs/Typography-image.png)
 
 #### Layout
 
@@ -102,7 +106,7 @@ The bright red background shows warmth and festivity, making it the ideal canvas
 Green buttons direct the user's attention to the quiz answers.
 Overall, the picture uses movement (snowflakes), vivid colours, and modest decorative elements to create a welcoming and joyous mood.
 
-![image](images/Typography-image.png)
+![image](docs/Typography-image.png)
 
 ### Wireframes
 
@@ -111,15 +115,15 @@ The wireframes allow me to map out the layout of each page, focusing on how visi
 
 Desktop Wireframe 
 
-![image](images/desk-top-view.png)
+![image](docs/desk-top-view.png)
 
 Mobile Wireframe 
 
-![image](images/mobile-view.png)
+![image](docs/mobile-view.png)
 
 Tablet and iPad Wireframe 
 
-![image](images/ipad-view.png)
+![image](docs/ipad-view.png)
 
 ## Features
 
@@ -127,19 +131,19 @@ Tablet and iPad Wireframe
 
 The answer buttons in the quiz are meant to be interactive and visually engaging. They are in a festive green that complements the red background, providing a stunning contrast. When hovered over, the buttons take on a gold style, making them feel dynamic and interesting. Each button is clearly labeled with the available answers, ensuring they are easily readable. Their location is natural, with buttons simple to find on any screen, from desktop to mobile. These buttons improve the user experience by adding functionality and a festive feel to the quiz.
 
-![image](images/buttons.png)
+![image](docs/buttons.png)
 
 ### Snowfall 
 
 Falling Snowflakes: Animated snowflakes gently fall across the screen, giving movement and a wintery atmosphere. The snowflakes are delicate and not distracting, creating a vibrant background without overpowering the content.
 
-![image](images/Typography-image.png)
+![image](docs/Typography-image.png)
 
 ### Play Again Button
 
 After completing the quiz, participants can restart it by clicking the "Play Again" button, allowing them to test themselves once more. By clicking this option, users can reset their score to zero and start the quiz again, allowing them to improve their performance. This feature promotes repeat involvement and allows users to follow their progress across numerous attempts, making the experience enjoyable and interactive. The button is clearly labelled and easily accessible, allowing users to quickly restart the quiz without taking additional steps.
 
-![image](images/play-again-button.png)
+![image](docs/play-again-button.png)
 
 ### Footer
 
@@ -149,7 +153,7 @@ The footer adds a professional and polished touch to the quiz page. It includes 
 
 It is styled with white lettering to complement the festive tone and sits neatly at the bottom of the page. Its minimalist design guarantees that it does not detract from the main material while yet performing a useful purpose.
 
-![image](images/footer.png)
+![image](docs/footer.png)
 
 ## Technologies Used
 
@@ -183,6 +187,10 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 ## Testing
 
+To test the quiz, I opened the quiz in a browser such as Chrome or Microsoft Edge. I checked the first question and answer boxes displayed on the screen correctly.
+When clicking the answer, I checked that the score starts at 0 and if the answer was correct the score, then changed to 1.
+Once I got to the end of the quiz I made sure the information on the quiz complete page looked good and the play again button took you back to the start of the quiz.
+
 The quiz is responsive on different device sizes
 
 ### Browser Compatibility and Responsive Devices
@@ -191,15 +199,15 @@ The quiz is responsive on different device sizes
 
 ### Desktop
 
-![image](images/desktop.png)
+![image](docs/desktop.png)
 
 ### Mobile
 
-![image](images/mobile.png)
+![image](docs/mobile.png)
 
 ### Ipad pro
 
-![image](images/ipad.png)
+![image](docs/ipad.png)
 
 ### Automated Testing
 
@@ -215,15 +223,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-![image](images/html-validator.png)
+![image](docs/html-validator.png)
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-![image](images/css-validator.png)
+![image](docs/css-validator.png)
 
 [JSHint js Validator](https://jshint.com/)
 
-![image](images/js-validator.png)
+![image](docs/js-validator.png)
 
 
 ### Testing User Stories from the User Experience (UX) Section
@@ -244,7 +252,8 @@ Hopefully, the visitor will make the game part of the Christmas tradition.
 3. Add a progress bar that fills up as the user answers questions.
 4. Add difficulty levels so users can choose between easy, medium, or hard questions at the start of the quiz.
 5. Add background music with a button to turn it on and off.
-6. Add different themes so people can choose the category they would like to play. 
+6. Add different themes so people can choose the category they would like to play.
+7. Add a way to tell you if the answer is right or wrong 
 
 ### Further Testing
 
@@ -268,13 +277,13 @@ Gemma Stead - Yes everything is working and its good.
 
 #### Mobile Performance 
 
-![image](images/mobile-pro.png)
+![image](docs/mobile-pro.png)
 
 #### Desktop Performance 
 
-![image](images/desktop-pro.png)
+![image](docs/desktop-pro.png)
 
-#### Deployment
+## Deployment
 
 ### GitHub Pages
 
