@@ -187,6 +187,8 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 ## Testing
 
+For this project, I will manually test the quiz application's functionality, usability, and design. Manual testing allows me to interact with the quiz as a user, verifying that all features, such as question navigation, scoring, and reset features, function correctly while also identifying any potential user experience concerns or problems that automated testing may miss.
+
 To test the quiz, I opened the quiz in a browser such as Chrome or Microsoft Edge. I checked the first question and answer boxes displayed on the screen correctly.
 When clicking the answer, I checked that the score starts at 0 and if the answer was correct the score, then changed to 1.
 Once I got to the end of the quiz I made sure the information on the quiz complete page looked good and the play again button took you back to the start of the quiz.
@@ -209,11 +211,13 @@ The quiz is responsive on different device sizes
 
 ![image](docs/ipad.png)
 
-### Automated Testing
+### What is Testing
+
+#### Automated Testing
 
 Automated testing uses pre-scripted test cases and tools to automatically validate software operation, making it ideal for repeated, large-scale activities like regression, load, and performance testing. It provides speed, accuracy, and efficiency, especially for tests that need to run repeatedly or across multiple versions of an application. However, it involves an initial investment in scripts and tools, making it ideal for long-term use in projects that are constantly changing.
 
-### Manual Testing
+#### Manual Testing
 
 Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment, and user experience review. It can adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
 
@@ -238,12 +242,105 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 #### First Time Visitor Goals
 
-For a first-time visitor, the goal is to create a seamless, engaging, and intuitive experience that encourages them to explore and engage in the quiz. The user should be able to start the quiz without confusion, and the UI should guide them through each stage easily. The visitor should be welcomed with clear straightforward navigation and interactive features like easily accessible answer buttons. By the end of the quiz, the visitor should have enjoyed the experience and be ready to try again. The idea is to make a good first impression and encourage repeat visits.
+Understand the Purpose: I want to understand the purpose of the quiz quickly so I know what to do.
+
+Simple Navigation: I want clear navigation so I can start the quiz without confusion.
+
+Appealing Design: I want the quiz to look engaging and festive to keep me interested.
+
+Active Features: I want interactive buttons to feel involved and enjoy the experience.
+
+Finishing Message: I want to see a clear message at the end of the quiz so I know my final score and what to do next.
 
 #### Returning Visitor Goals
 
-Returning visitors should feel as if they are revisiting a familiar setting.  Finally, the goal is to increase engagement and loyalty by making the experience enjoyable enough that the visitor will return.
-Hopefully, the visitor will make the game part of the Christmas tradition.
+Recognise Progress: I want the quiz to feel familiar to me as a repeat visitor so I can continue where I left off.
+
+Replay Option: Since I'm a frequent visitor, I'd like a simple option to retake the test and attempt to surpass my previous score.
+
+Engagement: Since I'm going again, I want to have enough fun to make it a yearly Christmas ritual.
+
+New Challenges: Since I'm a repeat visitor, I want the quiz to have fresh or randomly selected questions to keep it engaging.
+
+### Testing User Stories
+
+#### First-Time Visitor Goals
+
+##### Understand the Purpose:
+
+Test: Check that the title is clear and explains the purpose of the quiz.
+
+Result: The title "Christmas Quiz" text is clear and festive, making the purpose immediately obvious.
+
+![image](docs/js-validator.png)
+
+##### Simple Navigation:
+
+Test: Verify that the answer buttons are visible and start the quiz immediately when clicked.
+
+Result: The "Answer" button is clearly placed and starts the quiz as expected.
+
+![image](docs/buttons.png)
+
+##### Engaging Design:
+
+Test: Observe the visual appeal of the quiz layout, including festive colors and snowflake animations.
+
+Result: The festive red and green color scheme, with the falling snowflakes, creates an engaging Christmas atmosphere.
+
+![image](docs/desk-top-view.png)
+
+##### Interactive Features:
+
+Test: Check that the answer buttons respond correctly when clicked and display feedback.
+
+Result: Answer buttons work as expected, allowing users to select answers and proceed to the next question.
+
+Screenshot: (Include a screenshot of the answer buttons in action.)
+
+##### Completion Message:
+
+Test: Verify that a "Quiz Complete!" message appears at the end of the quiz, along with the final score.
+
+Result: The "Quiz Complete!" message is displayed, and the reset button becomes visible.
+
+Screenshot: (Include a screenshot of the completion message.)
+
+#### Returning Visitor Goals
+
+##### Recognize Progress:
+
+Test: Check that the quiz resets correctly when replayed, ensuring no leftover data from previous attempts.
+
+Result: The quiz resets completely, showing the first question and a score of 0.
+
+Screenshot: (Include a screenshot of the quiz reset screen.)
+
+##### New Challenges:
+
+Test: Ensure that questions are randomized or varied for replayability.
+
+Result: Questions appear in a random order, providing a fresh challenge for returning users.
+
+Screenshot: (Include a screenshot of the randomized question display.)
+
+##### Replay Option:
+
+Test: Verify that the "Play Again" button is functional and restarts the quiz smoothly.
+
+Result: The "Play Again" button works as intended, allowing users to replay the quiz.
+
+Screenshot: (Include a screenshot of the "Play Again" button.)
+
+##### Engagement:
+
+Test: Evaluate whether the overall experience is enjoyable and festive enough for repeated play.
+
+Result: Positive feedback from testers indicates that the quiz is engaging and enjoyable, making it suitable for repeated use.
+
+Screenshot: (Include a screenshot of the quiz during gameplay.)
+
+
     
 #### Features I would like to implement
 
@@ -273,7 +370,7 @@ Easy to read the questions and answers sections making play quite simple for all
 Gwen Combes age 9 - Great quiz, easy to read, I needed help with some of the answers as I'm only 9 years old. I like the snow and the bright Christmas colours. 
 I would play again, but I think it needs more Christmas Questions.
 
-Gemma Stead - Yes everything is working and its good.
+Gemma Stead - Yes everything is working and it's good.
 
 #### Mobile Performance 
 
