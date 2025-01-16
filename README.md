@@ -272,7 +272,7 @@ Test: Check that the title is clear and explains the purpose of the quiz.
 
 Result: The title "Christmas Quiz" text is clear and festive, making the purpose immediately obvious.
 
-![image](docs/js-validator.png)
+![image](docs/title.png)
 
 ##### Simple Navigation:
 
@@ -288,7 +288,7 @@ Test: Observe the visual appeal of the quiz layout, including festive colors and
 
 Result: The festive red and green color scheme, with the falling snowflakes, creates an engaging Christmas atmosphere.
 
-![image](docs/desk-top-view.png)
+![image](docs/desktop.png)
 
 ##### Interactive Features:
 
@@ -296,15 +296,15 @@ Test: Check that the answer buttons respond correctly when clicked and display f
 
 Result: Answer buttons work as expected, allowing users to select answers and proceed to the next question.
 
-Screenshot: (Include a screenshot of the answer buttons in action.)
+![image](docs/answer_score.png)
 
 ##### Completion Message:
 
 Test: Verify that a "Quiz Complete!" message appears at the end of the quiz, along with the final score.
 
-Result: The "Quiz Complete!" message is displayed, and the reset button becomes visible.
+Result: The "Quiz Complete!" message is displayed, and the Play Again button is visible.
 
-Screenshot: (Include a screenshot of the completion message.)
+![image](docs/play-again-button.png)
 
 #### Returning Visitor Goals
 
@@ -314,15 +314,7 @@ Test: Check that the quiz resets correctly when replayed, ensuring no leftover d
 
 Result: The quiz resets completely, showing the first question and a score of 0.
 
-Screenshot: (Include a screenshot of the quiz reset screen.)
-
-##### New Challenges:
-
-Test: Ensure that questions are randomized or varied for replayability.
-
-Result: Questions appear in a random order, providing a fresh challenge for returning users.
-
-Screenshot: (Include a screenshot of the randomized question display.)
+![image](docs/mobile.png)
 
 ##### Replay Option:
 
@@ -330,7 +322,7 @@ Test: Verify that the "Play Again" button is functional and restarts the quiz sm
 
 Result: The "Play Again" button works as intended, allowing users to replay the quiz.
 
-Screenshot: (Include a screenshot of the "Play Again" button.)
+![image](docs/play-again-button.png)
 
 ##### Engagement:
 
