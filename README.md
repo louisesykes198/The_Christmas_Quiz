@@ -83,7 +83,7 @@ All fonts were sourced through [Google Fonts](https://fonts.google.com/)
 The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
 The headlines' bold, Mountains of Christmas font draws attention without being unduly harsh, and nicely balanced. 
 
-![image](docs/Typography-image.png)
+![image](docs/typography-image.png)
 
 #### Layout
 
