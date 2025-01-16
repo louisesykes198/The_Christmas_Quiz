@@ -330,9 +330,7 @@ Test: Evaluate whether the overall experience is enjoyable and festive enough fo
 
 Result: Positive feedback from testers indicates that the quiz is engaging and enjoyable, making it suitable for repeated use.
 
-Screenshot: (Include a screenshot of the quiz during gameplay.)
-
-
+![image](docs/gameplay.png) 
     
 #### Features I would like to implement
 
