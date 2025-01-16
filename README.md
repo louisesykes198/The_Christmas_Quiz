@@ -106,7 +106,7 @@ The bright red background shows warmth and festivity, making it the ideal canvas
 Green buttons direct the user's attention to the quiz answers.
 Overall, the picture uses movement (snowflakes), vivid colours, and modest decorative elements to create a welcoming and joyous mood.
 
-![image](docs/Typography-image.png)
+![image](docs/typography-image.png)
 
 ### Wireframes
 
@@ -137,7 +137,7 @@ The answer buttons in the quiz are meant to be interactive and visually engaging
 
 Falling Snowflakes: Animated snowflakes gently fall across the screen, giving movement and a wintery atmosphere. The snowflakes are delicate and not distracting, creating a vibrant background without overpowering the content.
 
-![image](docs/Typography-image.png)
+![image](docs/typography-image.png)
 
 ### Play Again Button
 
@@ -187,7 +187,25 @@ It is styled with white lettering to complement the festive tone and sits neatly
 
 ## Testing
 
-For this project, I will manually test the quiz application's functionality, usability, and design. Manual testing allows me to interact with the quiz as a user, verifying that all features, such as question navigation, scoring, and reset features, function correctly while also identifying any potential user experience concerns or problems that automated testing may miss.
+### What is Testing
+
+#### Automated Testing
+
+Automated testing uses pre-scripted test cases and tools to automatically validate software operation, making it ideal for repeated, l
+arge-scale activities like regression, load, and performance testing. It provides speed, accuracy, and efficiency,
+especially for tests that need to run repeatedly or across multiple versions of an application. However, it involves an initial investment in scripts and tools, 
+making it ideal for long-term use in projects that are constantly changing.
+
+#### Manual Testing
+
+Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment,
+and user experience review. It can adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. 
+Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
+
+### The Quiz Game Testing
+
+For this project, I will manually test the quiz application's functionality, usability, and design. Manual testing allows me to interact with the quiz as a user, 
+verifying that all features, such as question navigation, scoring, and reset features, function correctly while also identifying any potential user experience concerns or problems that automated testing may miss.
 
 To test the quiz, I opened the quiz in a browser such as Chrome or Microsoft Edge. I checked the first question and answer boxes displayed on the screen correctly.
 When clicking the answer, I checked that the score starts at 0 and if the answer was correct the score, then changed to 1.
@@ -210,16 +228,6 @@ The quiz is responsive on different device sizes
 ### Ipad pro
 
 ![image](docs/ipad.png)
-
-### What is Testing
-
-#### Automated Testing
-
-Automated testing uses pre-scripted test cases and tools to automatically validate software operation, making it ideal for repeated, large-scale activities like regression, load, and performance testing. It provides speed, accuracy, and efficiency, especially for tests that need to run repeatedly or across multiple versions of an application. However, it involves an initial investment in scripts and tools, making it ideal for long-term use in projects that are constantly changing.
-
-#### Manual Testing
-
-Manual testing, on the other hand, necessitates the execution of test cases by human testers and is therefore ideal for exploratory testing, usability assessment, and user experience review. It can adapt, allowing testers to identify unexpected errors and assess UI/UX components, but it is slower and more prone to human error. Manual testing works well for one-time tests, short projects, or situations requiring a high level of human assessment, and it supplements automated testing by covering areas that automation may overlook.
 
 ## Validator
 
@@ -292,7 +300,7 @@ Result: The festive red and green color scheme, with the falling snowflakes, cre
 
 ##### Interactive Features:
 
-Test: Check that the answer buttons respond correctly when clicked and display feedback.
+Test: Check that the answer button responds correctly when clicked and display the score.
 
 Result: Answer buttons work as expected, allowing users to select answers and proceed to the next question.
 
